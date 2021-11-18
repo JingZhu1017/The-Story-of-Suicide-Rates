@@ -1,1 +1,4 @@
 # The-Story-of-Suicide-Rates
+Suicide is one of the major concerns all over the world. As per World Health Organization, every 40 seconds a person dies by suicide. What factors contribute to suicide rates, and are these rates able to be predicted? My hypothesis is that a few variables are strongly correlated with suicide rates, which can then be predicted. I have used various tools to analyze the dataset such as R, Python, and Tableau and then create a model and proceeds to test the machine learning model. It analyzes the correlation between variables and suicide rates. Although the results are not perfect, the project gives an insightful view into the statistics behind suicides.
+#Data Sources
+Russell Yates with the username, “Rusty,” on the data collection website, “Kaggle,” compiled a list of 27,800 suicides from 1985 to 2016.
